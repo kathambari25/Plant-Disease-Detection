@@ -1,9 +1,5 @@
 streamlit
 tensorflow
 numpy
-pillow
+Pillow
 gdown
-installalion 
-pip install -r requirements.txt
-
-streamlit run app.py
