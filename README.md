@@ -49,6 +49,14 @@ The trained CNN model is hosted on Google Drive because of its file size.
 
 **Note:** Set Google Drive access to "Anyone with the link" as Viewer.
 
+## 🚀 Live Demo
+
+Try the Plant Disease Detection web application here:
+
+👉 [**Plant Disease Detection – Live App**](https://plant-disease-detection-lqsy4yyofxqmebihecmskg.streamlit.app/)
+
+Upload a plant leaf image to check for possible plant diseases using the trained deep learning model.
+
 ## Future Enhancements
 - Add more plant disease categories.
 - Improve prediction accuracy.
