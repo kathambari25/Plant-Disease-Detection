@@ -2,7 +2,7 @@ streamlit
 tensorflow
 numpy
 pillow
-
+gdown
 installalion 
 pip install -r requirements.txt
 
