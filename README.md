@@ -41,6 +41,14 @@ PlantVillage dataset containing plant leaf images of healthy plants and plants a
 
    `streamlit run app.py`
 
+## Model File
+
+The trained CNN model is hosted on Google Drive because of its file size.
+
+[Download Plant Disease Detection Model](https://drive.google.com/file/d/1GvLEQmA-0TEJlxiQYlc54i4aUWYswuyO/view?usp=sharing)
+
+**Note:** Set Google Drive access to "Anyone with the link" as Viewer.
+
 ## Future Enhancements
 - Add more plant disease categories.
 - Improve prediction accuracy.
